@@ -241,6 +241,13 @@ CSS for Footer
         width: 360px;
         margin: 23px;
     }
+     #logo {
+        
+        margin: 0px 10px -1px 30px
+    } 
+    #naviBar {
+        margin: 0px -40px -1px;
+    } 
 }
 
 @media (max-width:768px) {
@@ -250,14 +257,9 @@ CSS for Footer
         display:none;
     }
 
-    #logo {
-        
-        margin: 0px 10px -1px 30px
-    }
+   
      
-    #naviBar {
-        margin: 0px -40px -1px;
-    } 
+   
      h1 {
         font-size: 28px;
         margin:4px 0px 7px 0px;
@@ -303,7 +305,7 @@ CSS for Footer
     } 
 
     #myPhoto {
-        width: 470px;
+        width: 92%;
         margin: 0px 15px 15px 20px;
     }
 
@@ -334,3 +336,4 @@ CSS for Footer
         margin: 17px;
     }
 }
+
