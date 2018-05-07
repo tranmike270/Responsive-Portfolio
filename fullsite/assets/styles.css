@@ -33,6 +33,10 @@ img {
     
 }
 
+.btn.btn-dark {
+    margin: 10px;
+}
+
 /* Flaired edges, by Tomas Theunissen
 Added my own twist :D */
 
@@ -187,7 +191,7 @@ CSS for Footer
 
 }
 
-#portfolioLinks {
+#portfolioLinks-container {
     margin:auto;
     padding: auto;
 }
@@ -336,4 +340,5 @@ CSS for Footer
         margin: 17px;
     }
 }
+
 
